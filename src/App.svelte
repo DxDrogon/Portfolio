@@ -53,12 +53,12 @@
 {
       cim: "GA",
       leiras: "Egy egyszserű weboldal.",
-      url: "https://dxdrogon.github.io/Map/"
+      url: "https://dxdrogon.github.io/GAFrontend/"
     },
 {
       cim: "Térkép",
       leiras: "Egy kattintható térkép amin országokat lehet megtalálni.",
-      url: "https://dxdrogon.github.io/GAFrontend/"
+      url: "https://dxdrogon.github.io/Map/"
     }
 
   ];
