@@ -44,7 +44,18 @@
       cim: "BMI",
       leiras: "Év végi projekt, ami egy filmes weboldal.",
       url: "https://bibliothecamotusimaginibus.netlify.app"
+    },
+  {
+      cim: "Naptár",
+      leiras: "Ez a projekt egy szimpla naptár havi és heti nézettel",
+      url: "https://calendarfeladat.netlify.app/"
+    },
+{
+      cim: "GA",
+      leiras: "Egy egyszserű HTML oldal.",
+      url: "https://dxdrogon.github.io/GAFrontend/"
     }
+
   ];
 </script>
 
